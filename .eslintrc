@@ -123,12 +123,8 @@
         ], // http://eslint.org/docs/rules/wrap-iife
         "yoda": 2, // http://eslint.org/docs/rules/yoda
         /**
-     * Style
-     */
-        "indent": [
-            2,
-            2
-        ], // http://eslint.org/docs/rules/indent
+        * Style
+        */
         "brace-style": [
             2, // http://eslint.org/docs/rules/brace-style
             "1tbs",
