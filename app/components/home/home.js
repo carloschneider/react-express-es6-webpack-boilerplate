@@ -5,9 +5,7 @@ class Home extends Component {
   render() {
     return (
       <p className={styler('app_intro')}>
-        To get started, edit
-        <code>src/app.js</code>
-        and save to reload.
+        To get started, edit <code>src/app.js</code> and save to reload.
       </p>
     );
   }
